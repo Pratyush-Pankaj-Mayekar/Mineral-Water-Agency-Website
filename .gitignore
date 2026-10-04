@@ -1,0 +1,8 @@
+node_modules/
+client/dist/
+client/public/uploads/*
+!client/public/uploads/.gitkeep
+.env
+server/data/demo-state.json
+.DS_Store
+npm-debug.log*

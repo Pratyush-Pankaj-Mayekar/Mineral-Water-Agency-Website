@@ -1,0 +1,1 @@
+Controllers are grouped by REST resource in routes/ and services/store.js.
